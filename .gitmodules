@@ -1,0 +1,3 @@
+[submodule "models/rnng-pt"]
+	path = models/rnng-pt
+	url = https://github.com/wtimkey/rnng-pytorch.git
